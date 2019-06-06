@@ -1,0 +1,8 @@
+*.pyc
+*.png
+*.jpg
+dump.rdb
+
+venv/
+*.egg-info/
+*.egg
