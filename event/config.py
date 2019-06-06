@@ -33,7 +33,7 @@ class DevelopmentConfig(Config):
 	ENV = 'development'
 	DEBUG = True
 
-	SQLALCHEMY_DATABASE_URI = 'mysql+pymysql://root:Maisha12#@127.0.0.1/bookmyevents'
+	SQLALCHEMY_DATABASE_URI = 'mysql+pymysql://root:password_here@127.0.0.1/bookmyevents'
 
 
 class ProductionConfig(Config):
